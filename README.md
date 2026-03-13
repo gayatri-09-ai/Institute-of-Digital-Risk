@@ -4,7 +4,7 @@
 This project is a responsive landing page for the **Institute of Digital Risk (IDR)**, an industry-led training and deployment institute focused on digital, cyber, and technology risk.
 ## Website Preview
 
-![Website Screenshot](<img width="1916" height="900" alt="IDR- website" src="https://github.com/user-attachments/assets/2e6f6c79-8b5c-48ef-bba2-c1d832f0715d" />
+![Website Screenshot](IDR-website.png)
 )
 
 ## Features
